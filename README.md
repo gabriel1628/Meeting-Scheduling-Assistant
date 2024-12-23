@@ -69,7 +69,7 @@ Powered by a Large Language Model (LLM), this assistant automates scheduling tas
 - **Time Zone**:  
   Set your time zone in the `config.json` file to ensure proper slot suggestions.
 
-- **Working hours range**:
+- **Meeting time slots**:
   By default, the assistant suggests meeting slots between 8:00 AM and 6:00 PM. You can customize this range in the `config.json` file.
 
 - **Default Event Duration**:  
